@@ -1,0 +1,33 @@
+{
+  "name": "SoyYo-PruebaTecDesarrolladorBack",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene la prueba técnica de la empresa SoyYo para el cargo de desarrollador back-end.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstivenh/SoyYo-PruebaTecDesarrolladorBack.git"
+  },
+  "keywords": [],
+  "author": "Stiven Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bstivenh/SoyYo-PruebaTecDesarrolladorBack/issues"
+  },
+  "homepage": "https://github.com/bstivenh/SoyYo-PruebaTecDesarrolladorBack#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.6"
+  }
+}
