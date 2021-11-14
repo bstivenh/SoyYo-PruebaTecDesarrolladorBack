@@ -9,4 +9,4 @@ Instrucciones:
 3) Ejecutar el comando **npm run dev**, para correr el API.
 4) Realizar el consumo del API con la siguiente URL **http://localhost:3000/entities/filter**.
 
-Nota: Se escogio nodemon para la ejecución ya que **PM2** es para ambientes de producción.
+Nota: Se escogió nodemon para la ejecución ya que **PM2** es para ambientes de producción.
